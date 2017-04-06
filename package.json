@@ -1,0 +1,13 @@
+{
+  "name": "coordinated-vbump-test-B",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "",
+  "dependencies": {
+    "coordinated-vbump-test-A": "1.0.0",
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}
