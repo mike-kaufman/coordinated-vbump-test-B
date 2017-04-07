@@ -1,1 +1,11 @@
-{"name":"coordinated-vbump-test-B-nested","version":"1.0.9","license":"MIT","main":"","dependencies":{"coordinated-vbump-test-A":"1.0.9"},"devDependencies":{},"scripts":{}}
+{
+  "name": "coordinated-vbump-test-B-nested",
+  "version": "1.0.10",
+  "license": "MIT",
+  "main": "",
+  "dependencies": {
+    "coordinated-vbump-test-A": "1.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}
